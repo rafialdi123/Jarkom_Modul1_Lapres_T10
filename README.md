@@ -13,4 +13,8 @@ Soal no 2 mengharuskan kita menyimpan gambar dengan nama file ```"Tim_Kunjungan_
 
 ![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765920266307764274/unknown.png)
 
+Dan didapat hasil export nya adalah gambar berikut
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765920589856374814/unknown.png)
+
 ## Jawaban no 3
