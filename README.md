@@ -23,3 +23,9 @@ Pada Soal no 3, soalnya meminta untuk kita mencari tahu username beserta passwor
 
 ![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765922221771456532/unknown.png)
 
+## Jawaban no 4
+
+Kita diminta untuk menemukan paket dari web web yang menggunakan basic authentication method, disini kita tinggal masukkan perintah pada filter ```ip.src == 157.245.50.224``` dan langsung kita menemukan paketnya. 
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765928067759341589/unknown.png)
+
