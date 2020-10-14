@@ -18,3 +18,8 @@ Dan didapat hasil export nya adalah gambar berikut
 ![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765920589856374814/unknown.png)
 
 ## Jawaban no 3
+
+Pada Soal no 3, soalnya meminta untuk kita mencari tahu username beserta password untuk login ke website ```ppid.dpr.go.id``` Yang harus kita lakukan adalah pertama tama kita harus filter kata kata yang mengandung login menggunakan filter ```“http.request.uri contains "login"”``` dan kita bisa langsung mencari yang bertuliskan ```POST``` dan scroll maka kita akan mendapatkan username dan passwordnya dimana username nya adalah ```“10pemuda”``` dan password nya ```“guncangdunia”.```
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765922221771456532/unknown.png)
+
