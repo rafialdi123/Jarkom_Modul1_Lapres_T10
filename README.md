@@ -8,3 +8,9 @@ Disini, . Cara untuk mendapatkan nya pertama kita harus melakukan ping terhadap 
 ![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765910611740590080/unknown.png)
 
 ## Jawaban no 2 
+
+Soal no 2 mengharuskan kita menyimpan gambar dengan nama file ```"Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"``` Pertama tama yang harus kita lakukan ialah Lakukan filter ```“http.response”``` untuk mendapatkan response dari server dan langsung cari yang mempunyai kata (PNG) dimana memuat gambar, setelah itu langsung export dan kita pilih nama file yang sesuai.
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765920266307764274/unknown.png)
+
+## Jawaban no 3
