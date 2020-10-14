@@ -29,3 +29,13 @@ Kita diminta untuk menemukan paket dari web web yang menggunakan basic authentic
 
 ![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765928067759341589/unknown.png)
 
+## Jawaban no 5
+
+Kita diminta untuk melakukan perintah pada web ```aku.pengen.pw``` namun sebelum itu kita harus mempunyai username dan password untuk masuk pada web tersebut. Langkah yang kita gunakan untuk menemukan itu adalah pertama tama yaitu masukkan perintah pada filte ```ip.src == 157.245.50.224 || ip.dst == 157.245.50.224``` lalu pada bagian ```Credentials``` akan tertera username dan password nya 
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765949066013704232/unknown.png)
+
+Dan lalu anda bisa masuk pada web nya 
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765949797219041300/unknown.png)
+
