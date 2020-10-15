@@ -72,9 +72,9 @@ Kata kunci dari soal 13 adalah ```hanya menampilkan paket yang menuju port 443``
 
 ## Jawaban no 14
 
-Untuk mengambil paket yang berasal dari IP komputer kami pertama tama harus tahu IP kami terlebih dahulu, disini kami menggunakan cmd dengan ```ipconfig``` lalu nanti akan muncul IP kami
+Untuk mengambil paket yang berasal dari IP komputer kami pertama tama harus tahu IP kami terlebih dahulu, disini kami menggunakan google dengan search saja ```what is my ip adress``` lalu nanti akan muncul IP kami
 
-![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/766189503798050846/unknown.png)
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/766193451674238986/unknown.png)
 
 lalu disitu ketemu IP komputer saya adalah 140.0.114.20 dan lalu tinggal masukkan saja filter ```ip.src == 140.0.114.20```
 
