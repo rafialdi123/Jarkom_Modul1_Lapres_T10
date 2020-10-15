@@ -60,3 +60,26 @@ Dan nanti file yang dicari akan berbentuk seperti ini, VOILAA
 
 ## Jawaban no 11
 
+Pada soal no 11 kata kunci nya adalah ```hanya mengambil paket yang mengandung port 21``` maka  kita tinggal masukkan perintah ```port 21``` pada filter
+
+## Jawaban no 12 
+
+Kata kunci dari soal no 12 ialah ```hanya mengambil paket yang berasal dari port 80``` maka kita tinggal masukkan ```src port 80``` pada filter
+
+## Jawaban no 13
+
+Kata kunci dari soal 13 adalah ```hanya menampilkan paket yang menuju port 443``` maka tinggal masukkan saja filter ```dst port 443```
+
+## Jawaban no 14
+
+Untuk mengambil paket yang berasal dari IP komputer kami pertama tama harus tahu IP kami terlebih dahulu, disini kami menggunakan cmd dengan ```ipconfig``` lalu nanti akan muncul IP kami
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/766189503798050846/unknown.png)
+
+lalu disitu ketemu IP komputer saya adalah 140.0.114.20 dan lalu tinggal masukkan saja filter ```ip.src == 140.0.114.20```
+
+## Jawaban no 15 
+
+Soal dari no 15 mengharuskan kita untuk mengambil paket yang tujuannya ke monta.if.its.ac.id kita tinggal masukkan filter ```dst monta.if.its.ac.id``` dan berhasil
+
+Sekian dari kami mohon maaf jika salah kata. 
