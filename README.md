@@ -39,3 +39,24 @@ Dan lalu anda bisa masuk pada web nya
 
 ![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765949797219041300/unknown.png)
 
+## Jawaban no 9
+
+No 9 meminta kita untuk menemukan username dan password untuk login FTP pada localhost, disini kami menemukan bahwa ...
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/766188124685860874/unknown.png)
+
+saat membuka FTP ada tertera disitu ```username:dhana pass:dhana123``` 
+
+## Jawaban no 10
+
+Pada nomor 10 kita diminta untuk mencari file pdf dengan lokasi tersembunyi dan mendonwnloadnya dan pada soal kita diberi clue yaitu ```25 50 44 46```
+Kita pertama tama masukkan ```tcp.stream eq 15``` pada filter dan pindah ke filter hex value dan masukkan kode 25 50 44 46 dan nanti akan ketemu file yang diinginkan tinggal di export lalu buka file pdf nya
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/766189145449562142/unknown.png)
+
+Dan nanti file yang dicari akan berbentuk seperti ini, VOILAA
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/766189174251847700/unknown.png)
+
+## Jawaban no 11
+
