@@ -39,6 +39,22 @@ Dan lalu anda bisa masuk pada web nya
 
 ![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/765949797219041300/unknown.png)
 
+## Jawaban no 6 
+
+Pada nomer 6 sendiri kita sebenarnya tinggal meencari menggunakan command ```ftp-data``` dan pada akhirnya akan bertemu file bernama Open This.pdf dan gambarnya seperti ini 
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/766726394323402772/unknown.png)
+
+## Jawaban no 7
+
+Pada no 7 juga sama seperti no 6 tinggal memasukkan command ftp-data dan nantinya tinggal cari saja file bernama Yes.zip dan buka dan nantinya berupa Yes.pdf yang isinya seperti ini
+
+![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/766726981752455228/unknown.png)
+
+## Jawaban no 8
+
+Untuk menjawab soal yang nomor 8 kita melakukan ftp.command sesuai contain nya lalu langsung download saja menggunakan RETR dan berhasil.
+
 ## Jawaban no 9
 
 No 9 meminta kita untuk menemukan username dan password untuk login FTP pada localhost, disini kami menemukan bahwa ...
