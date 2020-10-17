@@ -65,14 +65,15 @@ saat membuka FTP ada tertera disitu ```username:dhana pass:dhana123```
 
 ## Jawaban no 10
 
-Pada nomor 10 kita diminta untuk mencari file pdf dengan lokasi tersembunyi dan mendonwnloadnya dan pada soal kita diberi clue yaitu ```25 50 44 46```
-Kita pertama tama masukkan ```tcp.stream eq 15``` pada filter dan pindah ke filter hex value dan masukkan kode 25 50 44 46 dan nanti akan ketemu file yang diinginkan tinggal di export lalu buka file pdf nya
+Untuk menjawab no  10, pertama tama kita fokus ke clue yaitu 25 50 44 46, kemudian bisa di find berdasarjan hex value
 
 ![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/766189145449562142/unknown.png)
 
 Dan nanti file yang dicari akan berbentuk seperti ini, VOILAA
 
 ![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/766189174251847700/unknown.png)
+
+Lalu tinggal export saja
 
 ## Jawaban no 11
 
@@ -88,11 +89,7 @@ Kata kunci dari soal 13 adalah ```hanya menampilkan paket yang menuju port 443``
 
 ## Jawaban no 14
 
-Untuk mengambil paket yang berasal dari IP komputer kami pertama tama harus tahu IP kami terlebih dahulu, disini kami menggunakan google dengan search saja ```what is my ip adress``` lalu nanti akan muncul IP kami
-
-![Imagedescription](https://cdn.discordapp.com/attachments/691256969876471811/766193451674238986/unknown.png)
-
-lalu disitu ketemu IP komputer saya adalah 140.0.114.20 dan lalu tinggal masukkan saja filter ```ip.src == 140.0.114.20```
+Untuk mengambil paket dari IP komputer kami harus menggunakan localhost jadi tinggal masukkan saja ```ip.src == 127.0.0.1```
 
 ## Jawaban no 15 
 
